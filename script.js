@@ -16,7 +16,7 @@ const tabs = document.querySelectorAll('.operations__tab');
 const tabsContainer = document.querySelector('.operations__tab-container')
 const tabsContent = document.querySelectorAll('.operations__content')
 
-const section1 = document.getElementById('section--1');
+const section1 = document.getElementById('features');
 const allSections = document.querySelectorAll('.section');
 
 const imgTargets = document.querySelectorAll('img[data-src]')
